@@ -15,7 +15,8 @@ See instructions. Delete this line and replace with the name(s) of the stakehold
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+The vision of this application is to have a fully functioning online flower shop, with delivery/pick-up status, rotating seasonal products, and freedom to design floral banquets.
+
 
 ## User Requirements
 
