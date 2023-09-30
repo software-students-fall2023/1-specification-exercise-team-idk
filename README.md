@@ -34,7 +34,8 @@ The vision of this application is to have a fully functioning online flower shop
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+![UMLActivityDiagram
+](<Screenshot 2023-09-30 at 1.12.50 AM.png>)
 
 ## Clickable Prototype
 
