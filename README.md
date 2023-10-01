@@ -11,7 +11,19 @@ A little exercise to get started with the specification phase of the software de
 
 ## Stakeholders
 
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
+stakeholder interviewee: Na Li (she/her)-- owner of a florist store. 
+
+Her goals and problems: 
+goal#1: The stakeholder wants to have a good demonstration of each kind of product for her customers. 
+goal#2: The stakeholder wants to make customers able to leave comments and ratings after making a purchase. 
+goal#3: The stakeholder wants there to be be seasonal products being sold at different times of the year
+goal#4: The stakeholder wants the app to be able to offer recommendations according to the user’s requirements and prefrences. 
+
+problem#1: Sometimes the customers take unexpected long wait for delivery, they demand an estimation of delivery time/pick up time (better if can track activity)
+problem#2: Sometimes a product is sold out but the store kept receiving orders -- the store manager should be able to update cart/stock info.  
+problem#3: A customer may want to diy their own flower bouquet, but they are having truble as non-experts. It's helpful if we can connect a customer to a florist to create their own design. 
+problem#4: Sometimes customers have a hard time staying on top of store events, discounts and promotions. 
+
 
 ## Product Vision Statement
 
