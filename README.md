@@ -16,7 +16,7 @@ stakeholder interviewee: Na Li (she/her)-- owner of a florist store.
 Her goals and problems: 
 goal#1: The stakeholder wants to have a good demonstration of each kind of product for her customers. 
 goal#2: The stakeholder wants to make customers able to leave comments and ratings after making a purchase. 
-goal#3: The stakeholder wants there to be be seasonal products being sold at different times of the year
+goal#3: The stakeholder wants there to be be seasonal products being sold at different times of the year 
 goal#4: The stakeholder wants the app to be able to offer recommendations according to the user’s requirements and prefrences. 
 
 problem#1: Sometimes the customers take unexpected long wait for delivery, they demand an estimation of delivery time/pick up time (better if can track activity)
@@ -45,10 +45,13 @@ The vision of this application is to have a fully functioning online flower shop
 
 
 ## Activity Diagrams
-
+### corresponding user stories: 
+1. As a customer, I want to choose flower combinations so that I can pick my favorite basket design.
+7. As a flower shop owner, I want to effectively notify customers of flash sales and discounts so that I can sell as many flowers as possible
+### UML Diagram: 
 ![UMLActivityDiagram
 ](<Screenshot 2023-09-30 at 1.12.50 AM.png>)
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+https://www.figma.com/file/9Ym0cNOl6pFiDx6I9BmBE4/Prototype?type=design&t=reKLY15WVaRa7wnw-6
