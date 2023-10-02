@@ -54,4 +54,4 @@ The vision of this application is to have a fully functioning online flower shop
 
 ## Clickable Prototype
 
-https://www.figma.com/file/9Ym0cNOl6pFiDx6I9BmBE4/Prototype?type=design&t=reKLY15WVaRa7wnw-6
+https://www.figma.com/proto/9Ym0cNOl6pFiDx6I9BmBE4/Prototype?type=design&node-id=16-919&t=viI2KbAd7Q61KyrU-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=16%3A919&show-proto-sidebar=1&mode=design
